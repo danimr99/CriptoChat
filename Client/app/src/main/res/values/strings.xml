@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CriptoChat</string>
+
+    <!--  MainActivity  -->
+    <string name="textViewTitle">CriptoChat</string>
+    <string name="textViewSubtitle">An encrypted chat</string>
+    <string name="imageView_ContentDescription">App icon</string>
+    <string name="buttonJoin">Join</string>
+
+    <!-- ChatActivity -->
+    <string name="buttonSendText">Send</string>
+</resources>
